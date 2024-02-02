@@ -48,4 +48,6 @@
   />
 </picture>
 
-![snake animation](https://github.com/Naanon/Naanon/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Naanon/Naanon/blob/output/github-contribution-grid-snake.svg)
+
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=Naanon&repo=Naanon&theme=react)](https://github.com/Naanon)
