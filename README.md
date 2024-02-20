@@ -32,22 +32,3 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Naanon/Naanon/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Naanon/Naanon/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Github Contribution Grid Snake Animation"
-    src="https://raw.githubusercontent.com/Naanon/Naanon/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-![snake animation](https://github.com/Naanon/Naanon/blob/output/github-contribution-grid-snake.svg)
-
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=Naanon&repo=Naanon&theme=react)](https://github.com/Naanon)
