@@ -1,7 +1,7 @@
 ## Hello Everyone, I'm Aaron!
 
 <div>
-  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=naanon&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naanon&theme=dracula&show_icons=true" />
 
    
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naanon&layout=compact&langs_count=16&theme=tokyonight" />
