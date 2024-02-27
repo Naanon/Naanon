@@ -34,3 +34,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
+
+##
+
+![snake gif](https://github.com/naanon/naanon/blob/output/github-contribution-grid-snake.gif)
