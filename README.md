@@ -1,26 +1,23 @@
-## Hello Everyone, I'm Aaron!
+<h1>Hello Everyone, I'm Aaron!</h1>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naanon&theme=dracula&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naanon&theme=dracula&show_icons=true" />
 
-   
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naanon&layout=compact&langs_count=16&theme=tokyonight" />
+<h1>Development Stacks!</h1>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naanon&layout=compact&langs_count=16&theme=tokyonight" />
+
+<div style="display: inline_block">
+  <img align="center" alt="Node.js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="React" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Next.js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-##
 
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="Programming" src="https://img.freepik.com/fotos-gratis/composicao-com-sistema-html-para-sites_23-2150866280.jpg?size=626&ext=jpg&ga=GA1.1.1417794095.1706895443&semt=ais">
-    <h1 align="center">Development Stacks!</h1>
-    <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-    <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  </div>
+  
  
-  <h1 align="center">Social Medias</h1>
+  <h1>Social Medias</h1>
   <a href="https://instagram.com/nanoonn">
     <img width="50" src="https://cdn-icons-png.freepik.com/256/174/174855.png?ga=GA1.1.1417794095.1706895443&semt=ais">
   </a>
@@ -33,7 +30,7 @@
   <a href="https://www.linkedin.com/in/aaron-alves/">
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
-</div>
+
 
 ##
 
