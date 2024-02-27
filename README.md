@@ -34,4 +34,4 @@
 
 ##
 
-![snake gif](https://github.com/naanon/naanon/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/naanon/naanon/blob/output/github-contribution-grid-snake-dark.gif)
