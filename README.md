@@ -1,4 +1,4 @@
-<h1>Hello Everyone, I'm Aaron!</h1>
+<h1>Hi Everyone, I'm Aaron!</h1>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naanon&theme=gotham&show_icons=true" />
 
